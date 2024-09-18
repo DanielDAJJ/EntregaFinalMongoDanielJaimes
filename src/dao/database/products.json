@@ -1,0 +1,112 @@
+[
+	{
+		"id": 1,
+		"title": "Baguette",
+		"description": "Pan francés crujiente, de miga esponjosa y corteza dorada.",
+		"code": "PAN001",
+		"price": 1.5,
+		"status": true,
+		"stock": 50,
+		"category": "Pan Francés",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoOUF6dU0LnPoYFHHGho5khrt5SlatOqyKlQ&s"
+	},
+	{
+		"id": 2,
+		"title": "Ciabatta",
+		"description": "Pan italiano de miga alveolada y corteza crujiente.",
+		"code": "PAN002",
+		"price": 2,
+		"status": true,
+		"stock": 30,
+		"category": "Pan Italiano",
+		"img": "https://cdnx.jumpseller.com/magnifique1/image/46620668/resize/1000/1000?1710775176"
+	},
+	{
+		"id": 3,
+		"title": "Pan de Centeno",
+		"description": "Pan oscuro y denso con un sabor profundo de centeno.",
+		"code": "PAN003",
+		"price": 3,
+		"status": true,
+		"stock": 20,
+		"category": "Pan Integral",
+		"img": "https://elmolino.com.co/wp-content/uploads/2020/05/Centeno-1.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Brioche Clásico",
+		"description": "Pan francés de textura suave y esponjosa, ligeramente dulce, perfecto para acompañar con mermelada.",
+		"code": "PAN004",
+		"price": 2.75,
+		"status": true,
+		"stock": 50,
+		"category": "Pan Dulce",
+		"img": "https://europastry.com/us/wp-content/uploads/sites/15/2021/05/21588.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Focaccia",
+		"description": "Pan plano italiano con una textura esponjosa y un toque de aceite de oliva.",
+		"code": "PAN005",
+		"price": 2.75,
+		"status": true,
+		"stock": 25,
+		"category": "Pan Italiano",
+		"img": "https://images.squarespace-cdn.com/content/v1/5cb8a65a2727be3498aee216/1629145806259-2U8DYGI1DJVYHQ66NBM9/Receta+de+focaccia.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Pan de Molde",
+		"description": "Pan suave y esponjoso, ideal para sándwiches y tostadas.",
+		"code": "PAN006",
+		"price": 1.8,
+		"status": true,
+		"stock": 60,
+		"category": "Pan de Sándwich",
+		"img": "https://www.gastronomiavasca.net/uploads/image/file/4329/pan_de_molde.jpg"
+	},
+	{
+		"id": 7,
+		"title": "Pan de Avena",
+		"description": "Pan integral enriquecido con avena, ideal para una dieta saludable.",
+		"code": "PAN007",
+		"price": 2.2,
+		"status": true,
+		"stock": 35,
+		"category": "Pan Integral",
+		"img": "https://www.philippe.com.co/wp-content/uploads/2020/07/Pan-de-Avena-Philippe-Panaderia-y-Pasteleria-saludable-3.jpg"
+	},
+	{
+		"id": 8,
+		"title": "Pan de Aceitunas",
+		"description": "Pan mediterráneo con trozos de aceitunas verdes y negras.",
+		"code": "PAN010",
+		"price": 2.9,
+		"status": true,
+		"stock": 25,
+		"category": "Pan Gourmet",
+		"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7qBtz9watphSnMELsGFTwt9dzfYGlDpg4w&s"
+	},
+	{
+		"id": 9,
+		"title": "Pan de Leche",
+		"description": "Pan suave y ligeramente dulce, perfecto para acompañar desayunos.",
+		"code": "PAN012",
+		"price": 1.7,
+		"status": true,
+		"stock": 50,
+		"category": "Pan Dulce",
+		"img": "https://www.eurobakeries.com/wp-content/uploads/2019/07/849_Sandwichbroetchen.jpg"
+	},
+	{
+		"id": 10,
+		"title": "Pan de Ajo",
+		"description": "Pan sabroso con un intenso sabor a ajo, ideal para acompañar sopas o ensaladas.",
+		"code": "PAN018",
+		"price": 2.6,
+		"status": true,
+		"stock": 35,
+		"category": "Pan Sabroso",
+		"img": "https://s2.abcstatics.com/media/gurmesevilla/2016/07/como-hacer-pan-de-ajo.jpg"
+	}
+]
